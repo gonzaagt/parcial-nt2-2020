@@ -1,0 +1,1 @@
+export const urlPosts = 'https://5edc394511cb1d001665ccf0.mockapi.io/Tareas/'
